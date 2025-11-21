@@ -1,0 +1,129 @@
+.MuiLink-underlineHover {
+    display: block !important;
+}
+
+.MuiLink-underlineHover .MuiCardMedia-root {
+    display: block !important;
+}
+
+#wishlist-hero-add-notification .MuiCardContent-root div {
+    display: block !important;
+}
+
+
+.wishlisthero-floating:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.wishlisthero-floating button {
+    font-size: 20px !important;
+    width: 40px !important;
+    padding: 0.125em 0 0 !important;
+}
+
+.MuiTypography-body2,
+.MuiTypography-body1,
+.MuiTypography-caption,
+.MuiTypography-button,
+.MuiTypography-h1,
+.MuiTypography-h2,
+.MuiTypography-h3,
+.MuiTypography-h4,
+.MuiTypography-h5,
+.MuiTypography-h6,
+.MuiTypography-subtitle1,
+.MuiTypography-subtitle2,
+.MuiTypography-overline,
+.MuiButton-root {
+    font-family: inherit !important;
+    /*Roboto, Helvetica, Arial, sans-serif;*/
+}
+
+.MuiDialog-root .MuiTypography-h5.wishlist-hero-header-title {
+    display: inline-block;
+}
+
+/* adjust to smaller base font - leave out for now */
+/* .wishlisthero-customer-view-listing .MuiTypography-body1,
+.MuiDialog-root .MuiTypography-body1 {
+    font-size: 1.4rem;
+}
+
+.wishlisthero-customer-view-listing .MuiTypography-h5,
+.MuiDialog-root .MuiTypography-h5 {
+    font-size: 1.35em;
+}
+
+.wishlisthero-customer-view-listing .MuiTypography-h6,
+.MuiDialog-root .MuiTypography-h6 {
+    font-size: 1.2em;
+}
+
+
+.MuiButton-root.MuiButtonBase-root {
+    font-size: 1.45rem;
+}
+
+.MuiDialog-root .MuiFormLabel-root,
+.MuiDialog-root .MuiInputBase-input {
+    font-size: 1.2em;
+}
+
+.MuiDialog-root .MuiSvgIcon-root {
+    font-size: 2rem;
+} */
+
+/****************************************************************************************/
+/* For some theme shared view need some spacing */
+/*
+#wishlist-hero-shared-list-view {
+margin-top: 15px;
+margin-bottom: 15px;
+}
+#wishlist-hero-shared-list-view h1 {
+padding-left: 5px;
+}
+*/
+
+#wishlisthero-product-page-button-container {
+    padding-top: 10px;
+}
+
+.wishlist-hero-product-app-block.wlh-clear-margins #wishlisthero-product-page-button-container {
+    padding-top: inherit;
+}
+
+/****************************************************************************************/
+/* #wishlisthero-product-page-button-container button {
+padding-left: 1px !important;
+} */
+/****************************************************************************************/
+/* Customize the indicator when wishlist has items AND the normal indicator not working */
+.site-header__icon span.wishlist-hero-items-count {
+    position: absolute;
+
+
+    width: 1.7rem;
+    height: 1.7rem;
+}
+
+.site-header__icon span.wishlist-hero-items-count.wishlist-hero-items-count-exists {
+    display: flex !important;
+}
+
+.wishlist-hero-header-icon i.wlh-Icon {
+    padding-bottom: inherit !important;
+}
+
+/*@media screen and (max-width: 749px) {
+.site-header__icon span.wishlist-hero-items-count {
+
+right: -2px;
+top: -4.5px;
+}
+}*/
+svg.wlh-svg-Icon path {
+    fill: currentColor;
+    /* stroke: white;
+    stroke-width: 0.5px; */
+}

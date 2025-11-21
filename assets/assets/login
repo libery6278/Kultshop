@@ -1,0 +1,35 @@
+<!DOCTYPE html><html lang="en"><head><title>Judge.me Product Reviews</title><meta content="Judge.me powers the product reviews for your e-commerce store. Our apps help you collect and display star ratings and reviews on Shopify, WooCommerce and BigCommerce." name="description" /><meta content="width=device-width, initial-scale=1.0" name="viewport" /><link href="https://assets.judge.me/cdn/admin/assets/favicon-2025-f116e650f7bf66a0e7d7c8f9892fbfc62cdeeac57e05aaa7892a11841464a4ad.jpg" rel="shortcut icon" type="image/png" /><meta content="https://pub-images.judge.me/judgeme/rs_default_fb_image_url" property="og:image" /><meta content="Judge.me Product Reviews" property="og:title" /><meta content="Fully featured review app with in-email review forms, pictures, social push, rich snippets, all reviews page, product groups, etc" property="og:description" /><meta content="https://judge.me/login" property="og:url" /><meta content="website" property="og:type" /><meta content="141224836283514" property="fb:app_id" /><meta content="#339999" name="theme-color" /><meta content="#339999" name="apple-mobile-web-app-status-bar-style" /><meta content="#339999" name="msapplication-navbutton-color" /><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f.nextSibling);
+})(window,document,'script','dataLayer','GTM-KNN3H9');</script>
+<!-- End Google Tag Manager -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Judge.me",
+  "legalName": "Judge.me",
+  "logo": "https://assets.judge.me/cdn/admin/assets/judgeme_ico-95432c53e3e017342c7c854eee90efb9edba49ef0b18363a5661856039b69339.png",
+  "image": "https://assets.judge.me/cdn/admin/assets/judgeme_ico-95432c53e3e017342c7c854eee90efb9edba49ef0b18363a5661856039b69339.png",
+  "url": "https://judge.me/",
+  "description": "Judge.me is a reviews app that helps you collect and display product reviews and site reviews with photos, videos and Q&A. Easily migrate and import your existing reviews from Yotpo, Loox, Stamped, Shopify, TrustSpot, Etsy and AliExpress. Increase sales: leverage user-generated content to boost your conversion rate, organic traffic, and buyer engagement.",
+  "contactPoint": [
+      {
+          "@type": "ContactPoint",
+          "email": "support@judge.me",
+          "contactType": "Customer Support",
+          "url": "https://support.judge.me/support/tickets/new",
+          "availableLanguage": "English"
+      }
+  ],
+  "sameAs": [
+      "https://www.facebook.com/judgedotme/",
+      "https://twitter.com/judgedotme",
+      "https://www.linkedin.com/company/judgeme/"
+  ]
+}
+</script>
+<link href="https://cdn.judge.me/" rel="dns-prefetch" /><meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="q8KNE8hlhjmNs-9woRguPTK6HCnBgrkFl3UjXiJjDpazuaA-zCPMWTNmVzuh9y-z_wJ2xqcs0wNCQrPVm632_w" /><link rel="stylesheet" href="https://assets.judge.me/cdn/admin/assets/platform-122a743459d727060e1c559cee6e17e9980f5ffec3a49cbbcda943ca992bc234.css" media="screen" /><script src="https://assets.judge.me/cdn/admin/assets/platform-7ae46e4c2b93f715330ffba0f323fc3faadf030d484a1e94e2b30b8fee677247.js"></script></head><body class="pf-sessions-body pf-sessions-new-body pf-body__use-simple-header"><div data-page_title="Judge.me Product Reviews" id="app_meta"></div><header class="pf-header pf-header--simple has-100vw"><div class="pf-header-wrapper has-max-width"><nav class="navbar navbar-default pf-header-navbar"><div class="navbar-header"><a class="navbar-header__logo" href="/"><img class="navbar-header__logo-image" alt="Judge.me" src="https://assets.judge.me/cdn/admin/assets/logo-judgeme-2025-168fc2acff70f1ea33c42220d82606022e23ec3b37f96f04b84780bd0309ed9a.svg" /></a></div></nav></div></header><main class="has-max-width pf-sessions-main pf-sessions-new-main"><script class="grecaptcha-script" data-key="6LcOifkUAAAAAOyy9XMAMK_w6qZX9KxZolMyK3Oz" src="https://www.google.com/recaptcha/api.js?render=6LcOifkUAAAAAOyy9XMAMK_w6qZX9KxZolMyK3Oz"></script><div class="login-page"><div class="login-card"><h3 class="login-card__title">Join / Sign In</h3><p class="login-card__instruction">Just add your email below to Sign In or create a Reviewer account.</p><div class="login-card__error-msg"></div><form class="login-card__form" action="/login" accept-charset="UTF-8" method="post"><input type="hidden" name="utf8" value="&#x2713;" autocomplete="off" /><input type="hidden" name="authenticity_token" value="0vjO3Yv8D7OFAVvn13ij-N7DOeZFxVeqKGQzzUiE3u_Kg-Pwj7pF0zvU46zXl6J2E3tTCSNrPaz9U6NG8Uomhg" autocomplete="off" /><input type="hidden" name="platform" id="platform" autocomplete="off" /><input type="text" name="shop_or_email" id="shop_or_email" placeholder="Your email address" class="login-card__input" required="required" autofocus="autofocus" autocapitalize="none" /><div class="login-card__remember-me"><input type="checkbox" name="remember_me" id="remember_me" value="true" class="login-card__remember-me-checkbox" /><label class="login-card__remember-me-label" for="remember_me">Remember me</label></div><input type="hidden" name="recaptcha_token" id="recaptcha_token" autocomplete="off" /><input type="submit" name="commit" value="Send Magic Link " class="btn btn--brand login-card__submit login-card__sign-in-btn" data-disable-with="Send Magic Link " /></form><div class="login-card__oauth-container"><span class="login-card__oauth-container__text">or sign in with</span><a class="btn login-card__oauth-btn login-card__submit login-card__oauth-btn--google" href="/auth/google_oauth2?"><div class="asset-sprite login-card__oauth-icon login-card__oauth-icon--google"></div></a><a class="btn login-card__oauth-btn login-card__submit" href="/auth/facebook?"><div class="asset-sprite login-card__oauth-icon login-card__oauth-icon--facebook"></div></a></div></div></div></main><div class="jm-cookie-bar"><div class="jm-cookie-bar__content">We use cookies to improve your experience, analyze site traffic and send targeted advertisements. By continuing to use the site, you agree to the use of cookies in our <a rel="nofollow noopener" target="_blank" href="/privacy">privacy policy</a>.</div><div class="jm-cookie-bar__button btn btn--brand">Ok</div></div></body></html>
